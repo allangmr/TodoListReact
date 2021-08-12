@@ -1,6 +1,6 @@
 # TodoList React App with hook useReduce
 
-Demo: https://allangmr.github.io/todolistreact
+Demo: https://allangmr.github.io/TodoListReact/
 
 
 ## Available Scripts
